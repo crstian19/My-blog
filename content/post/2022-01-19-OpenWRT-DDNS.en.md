@@ -2,10 +2,15 @@
 title: "Configure DDNS in OpenWrt Cloudflare"
 date: 2022-01-10T00:19:14+02:00
 draft: false
-tags: [OpenWRT,DDns,Cloudflare]
+tags: [OpenWRT,DDns,Cloudflare,Banana pi r4]
 ---
 
 If you have services in your home as in my case, your company will probably give you a dynamic public IP, so it is a hassle to have to be changing by hand the IP where your domain points every time your company changes the IP, so let's see how to configure our router with OpenWRT with Cloudflare as DNS in a very simple way.
+
+List of routers that I recommended:
+
+- [BPI-R4](https://s.click.aliexpress.com/e/_omrrCEA)
+- [Linksys MR7350](https://www.amazon.es/Linksys-compatible-controles-parentales-aplicaci%C3%B3n/dp/B08CL1KWDX?th=1&tag=crstian-21)
 
 ## Cloudflare Token
 
