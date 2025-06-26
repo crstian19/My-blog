@@ -5,13 +5,10 @@ draft: false
 ---
 # $whoami
 
-I am Cristian, a spanish telematics site reliability engineer.
+I'm Cristian, a spanish Site Reliability Engineer.
 
-I use ArchLinux. I like to be in constant learning and I am currently working on very different topics such as Frontend, Backend, DevOps, Sysadmin...
+I use ArchLinux for my PC and my laptop,NixOS for my servers. I like to be in constant learning and I am currently working on very different topics such as Frontend, Backend, DevOps, Sysadmin...
 
-
-[![](https://img.shields.io/discord/689116957785718829?label=Discord&logo=Discord)](https://discord.gg/SBpW4pACtq)
-
-[![Crstian's github stats](https://github-readme-stats.vercel.app/api?username=Crstian19&show_icons=true&theme=midnight-purple)](https://github.com/Crstian19)
+![](https://media2.giphy.com/media/slVWEctHZKvWU/giphy.gif?cid=ecf05e476ptp3hv2w3xzo3pbiupfyinr0o0u1jmzjhshvq89&rid=giphy.gif&ct=g)
 
 
