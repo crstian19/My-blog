@@ -15,7 +15,7 @@ How to integrate the Salicru SPS 500 ONE UPS with Home Assistant using Docker.
 
 Well, since practically all my services are self-hosted on my server, I decided to buy a UPS (Uninterruptible Power Supply) so that if the power goes out for any reason, the server won't shut down abruptly and potentially damage a component, especially an HDD.
 
-Since I only wanted it for the server and not much else, I chose the [Salicru SPS 500 ONE](http://www.amazon.es/dp/B08241KKD3/ref=nosim?tag=crstian-21), which is more than enough for the server and anything else I might connect to it in the future.
+Since I only wanted it for the server and not much else, I chose the [Salicru SPS 500 ONE](https://amzn.to/4lBd2kS), which is more than enough for the server and anything else I might connect to it in the future.
 
 Once I had it connected, I started looking into how to integrate it with Home Assistant. I had previously seen people who had integrated UPS systems into their HASS, so I began to investigate.
 

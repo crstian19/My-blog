@@ -10,7 +10,7 @@ If you have services in your home as in my case, your company will probably give
 List of routers that I recommended:
 
 - [BPI-R4](https://s.click.aliexpress.com/e/_omrrCEA)
-- [Linksys MR7350](https://www.amazon.es/Linksys-compatible-controles-parentales-aplicaci%C3%B3n/dp/B08CL1KWDX?th=1&tag=crstian-21)
+- [Linksys MR7350](https://amzn.to/3GfwMLP)
 
 ## Cloudflare Token
 
